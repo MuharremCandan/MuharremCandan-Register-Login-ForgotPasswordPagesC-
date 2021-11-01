@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gTuRKazVWmMr+WhmxfUnXjyQocsJTCuO+PBLex7WH9vakEqLEtrFJbCYqgWyVtic+PIQ7QmB99wA2rnQMvVKSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muharrem\\source\\repos\\Register&Login&ForgotPasswordPages\\LoginScreen\\LoginScreen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muharrem\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
+    "C:\\Users\\Muharrem\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
